@@ -1,203 +1,1992 @@
-BELOW IS AN EXAMPLE OF HOW YOUR COPY/PASTE LIST TEXT SHOULD LOOK. REMOVE ALL TEXT HERE BEFORE PASTING YOURS.
+Grange Cafe
+4,1(719)
+₺200–400
+· Bar
+
+
+Not
 
 
-Reykjavík Chips
-Vitastígur 10, 101 Reykjavík, Iceland
-
-Share something about this place
-Eldur og Ís - Ice cream and crêpes
-Skólavörðustígur 2, 101 Reykjavík, Iceland
-
-Share something about this place
-JOE & THE JUICE
-Mall, Smáralind Shoppingmall [Kópavogur, Hagasmári 1, 201 Kópavogur, Iceland
-
-Share something about this place
-JOE & THE JUICE
-Miklabraut, 108 Reykjavík, Iceland
-
-Share something about this place
-JOE & THE JUICE
-Street, Tryggvagata 21 Hafnartorg, 101 Reykjavík, Iceland
-
-Share something about this place
-Ingólfsskáli Viking Restaurant
-Efstaland, 801 Ölfus, Iceland
-
-Share something about this place
-Kaffi Krús
-Austurvegur 7, 800 Selfoss, Iceland
-
-Share something about this place
-Menam
-Mjólkurbúið – The Old Dairy Selfoss, Eyravegi 1, 800 Selfoss, Iceland
-
-Share something about this place
-Samúelsson Matbar
-Inside the foodhall, Eyravegur 1, 800 Selfoss, Iceland
-
-Share something about this place
-Tryggvaskáli
-Tryggvatorg, 800 Selfoss, Iceland
-
-Share something about this place
-Friðheimar
-5HH4+225 Friðheimar, Reykholt, Iceland
-
-Share something about this place
-Gullfoss - Panorama Restaurant - Cafe - Shop
-Bláskógabyggð, 801 Selfoss, Iceland
-
-Share something about this place
-Restaurant Minilik
-4MJJ+3P8, 30, Flúðir, Iceland
-
-Share something about this place
-The Soup Company
-Víkurbraut 5 870, 870 Vik, Iceland
-
-Share something about this place
-Black Crust Pizzeria
-Austurvegur 16, 870 Vik, Iceland
-
-Share something about this place
-Pakkhús Restaurant
-Krosseyjarvegur 3, 780 Höfn í Hornafirði, Iceland
-
-Share something about this place
-Vogafjós Farm Resort
-Vogar, 660 Myvatn, Iceland
-
-Share something about this place
-Salka Restaurant
-Garðarsbraut 6, 640 Húsavík, Iceland
-
-Share something about this place
-Klausturkaffi
-Fljotsdalsvegur, Skriduklaustur, 701 Egilsstadir, Iceland
-
-Share something about this place
-Fjallakaffi
-Modhrudalur, Iceland
-
-Share something about this place
-Systrakaffi
-205 13, 880 Kirkjubæjarklaustur, Iceland
-
-Share something about this place
-Nettó
-7Q3P+2WC, Miðbær, Litlabrú, Höfn í Hornafirði, Iceland
-
-Share something about this place
-Búðin
-94, Bakkagerði, Iceland
-
-Share something about this place
-Nettó
-Kaupvangur 6, 700 Egilsstaðir, Iceland
-
-Share something about this place
-Bónus
-Miðvangur 13, 700 Egilsstaðir, Iceland
-
-Share something about this place
-Nettó
-Krossmói 4, 260 Njarðvík, Iceland
-
-Share something about this place
-Mulaberg Bistro & Bar
-Hafnarstræti 89, Akureyri, Iceland
-
-Share something about this place
-Bautinn Restaurant
-Hafnarstræti 92, 600 Akureyri, Iceland
-
-Share something about this place
-Strikið
-Skipagata 14, 5th floor, 600 Akureyri, Iceland
-
-Share something about this place
-Vínstofa Friðheima - Winebar & Bistro
-Birkilundur, Friðheimar 9-13, 806 Reykholt, Iceland
-
-Share something about this place
-Kjarval Hella
-Gamli Suðurlandsvegur 1, Hella, Iceland
-
-Share something about this place
-Midgard Restaurant & Bar
-Dufþaksbraut 14, 860 Hvolsvöllur, Iceland
-
-Share something about this place
-Kronan Hvolsvelli
-Austurvegur 4, 860 Hvolsvöllur, Iceland
-
-Share something about this place
-Krambúðin Flúðir
-30, Flúðir, Iceland
-
-Share something about this place
-Skálakot Hotel
-Skálakot, Hvolsvöllur, Iceland
-
-Share something about this place
-Fosshotel Glacier Lagoon
-Hnappavellir, 785 Öræfi, Iceland
-
-Share something about this place
-Café Loki
-Lokastígur 28, 101 Reykjavík, Iceland
-
-Share something about this place
-Kol Restaurant
-Skólavörðustígur 40, 101 Reykjavík, Iceland
-
-Share something about this place
-Icelandic Street Food
-Lækjargata 8, 101 Reykjavík, Iceland
-
-Share something about this place
-Old Iceland
-Laugavegur 72, 101 Reykjavík, Iceland
-
-Share something about this place
-Harry´s Seafood and Grill Restaurant
-Laugavegur 85 101, 101 Reykjavík, Iceland
-
-Share something about this place
-LÓA Restaurant
-Laugavegur 95-99 Main entrance from Snorrabraut, Laugavegur, 101 Reykjavík, Iceland
-
-Share something about this place
-Skál!
-Njálsgata 1, 101 Reykjavík, Iceland
-
-Share something about this place
-Beitarhúsið
-Möðrudalsleið, Iceland
-
-Share something about this place
-Lindin
-Lindarbraut 2, Laugarvatn, Iceland
-
-Share something about this place
-Narfeyrarstofa
-Aðalgata 3, 340 Stykkishólmur, Iceland
-
-Share something about this place
-Sjávarpakkhúsið
-Hafnargata 2a, 340 Stykkishólmur, Iceland
-
-Share something about this place
-Hótel Búðir
-Búðir 356, 356 Búðir, Iceland
-
-Share something about this place
-Bjargarsteinn Mathús
-Sólvellir, Grundarfjörður, Iceland
-
-Share something about this place
-Rock´n´ Troll Café (Fossatún Country Hotel)
-HCVC+2XR, Fossatún, 311 Borgarbyggð, Iceland
-
-Share something about this place
+
+
+
+￼
+Hmk Dönence Plak
+4,8(169)
+Plak Mağazası
+
+
+Not
+
+
+
+
+
+￼
+Fındıklı Çiçekçi
+Çiçekçi
+
+
+Not
+
+
+
+
+
+￼
+NOH Radio
+4,1(434)
+Bar
+
+
+Not
+
+
+
+
+
+￼
+ROCKNROLLA İSTANBUL
+4,0(1.744)
+₺₺
+· Türk
+
+
+Not
+
+
+
+
+
+￼
+Village Coffee + Eatery
+4,6(781)
+₺200–400
+· Kahve dükkanı
+
+
+Not
+
+
+
+
+
+￼
+Müjgan Yeldeğirmeni
+4,6(971)
+₺600–800
+· Kahvaltı
+
+
+Not
+
+
+
+
+
+￼
+Küp Saklı Bahçe Kadıköy
+4,2(2.218)
+₺200–400
+· Restoran
+
+
+Not
+
+
+
+
+
+￼
+Rainbow club
+3,4(17)
+Yoga Uygulama Merkezi
+
+
+Not
+
+
+
+
+
+￼
+The Tempest Social House
+4,3(318)
+₺400–600
+· Kokteyl bar
+
+
+Not
+
+
+
+
+
+￼
+Pilav Arabası
+4,2(1.351)
+₺200–400
+· Pilav Restoranı
+
+
+Not
+
+
+
+
+
+￼
+Meşhur Unkapanı Pilavcısı Abdurrahim Usta
+3,4(180)
+₺1–200
+· Pilav Restoranı
+
+
+Not
+
+
+
+
+
+￼
+The Wall Bar
+4,3(794)
+₺200–300
+· Bar
+
+
+Not
+
+
+
+
+
+￼
+Por Atölye
+4,2(80)
+Kuaför
+
+
+Not
+
+
+
+
+
+￼
+Hobianna Hobi ve Nakış Malzemeleri
+5,0(18)
+Hobi dükkanı
+
+
+Not
+
+
+
+
+
+￼
+ORTAKÖY POLİSEVİ SOSYAL TESİSİ (‼️KONAKLAMA YOKTUR‼️)
+4,0(2.430)
+₺₺
+· Türk
+
+
+Not
+
+
+
+
+
+￼
+Safiye Sultan’ın Mutfağı
+4,5(121)
+Restoran
+
+
+Not
+
+
+
+
+
+￼
+Naboo Cafe
+4,6(387)
+₺100–200
+· Kafe
+
+
+Not
+
+
+
+
+
+￼
+Sotapi Kadıköy | Soslu Tavuk Pilav
+4,0(866)
+₺200–400
+· Tavuk
+
+
+Not
+
+
+
+
+
+￼
+Kadı Nimet Bakery&Coffee
+4,0(1.707)
+₺200–400
+· Kahve Mağazası
+
+
+Not
+
+
+
+
+
+
+KukisAcıbadem
+
+
+
+Not
+
+
+
+
+
+
+TAS Ramen & Sushi Bar
+
+
+
+Not
+
+
+
+
+
+
+Arkadaş Satranç Kafe
+
+
+
+Not
+
+
+
+
+
+
+Blue Tekel
+
+
+
+Not
+
+
+
+
+
+
+Koi Vintage
+
+
+
+Not
+
+
+
+
+
+
+Böcek
+
+
+
+Not
+
+
+
+
+
+
+Coffee Shop
+
+
+
+Not
+
+
+
+
+
+
+Polka Kafe
+
+
+
+Not
+
+
+
+
+
+
+Seoul Plaza by Jonathan
+
+
+
+Not
+
+
+
+
+
+
+Altın Fıçı kafe bar tic.ltd.şti.
+
+
+
+Not
+
+
+
+
+
+
+Irish Pub The James Joyce
+
+
+
+Not
+
+
+
+
+
+
+Yazı Tura Barcade
+
+
+
+Not
+
+
+
+
+
+
+machi machi
+
+
+
+Not
+
+
+
+
+
+
+caffestudio by KEF
+
+
+
+Not
+
+
+
+
+
+
+Rulo Ezberbozan Lezzetler
+
+
+
+Not
+
+
+
+
+
+
+Dab Pub Pera
+
+
+
+Not
+
+
+
+
+
+
+Elde Börek
+
+
+
+Not
+
+
+
+
+
+
+Fındıkzade
+
+
+
+Not
+
+
+
+
+
+
+Servant - All Day Goods
+
+
+
+Not
+
+
+
+
+
+
+gen antik cafe
+
+
+
+Not
+
+
+
+
+
+
+Corner Irish Pub
+
+
+
+Not
+
+
+
+
+
+
+THE L.O.F
+
+
+
+Not
+
+
+
+
+
+
+J'adore Chocolatier
+
+
+
+Not
+
+
+
+
+
+
+Bnova Bebek
+
+
+
+Not
+
+
+
+
+
+
+Anas Chicken Eminönü Şubesi
+
+
+
+Not
+
+
+
+
+
+
+Kameriye Kafe Çay Bahçesi
+
+
+
+Not
+
+
+
+
+
+
+Fethipaşa Korusu
+
+
+
+Not
+
+
+
+
+
+
+Build&Co. Coffee
+
+
+
+Not
+
+
+
+
+
+
+Kuveloğlu Han da Tarihi Pide Fırını
+
+
+
+Not
+
+
+
+
+
+
+What The Coffee Akaretler
+
+
+
+Not
+
+
+
+
+
+
+Bab Bowling
+
+
+
+Not
+
+
+
+
+
+
+Şehbender Sk. No:14 D:a
+
+
+
+Not
+
+
+
+
+
+
+Lil and Lous
+
+
+
+Not
+
+
+
+
+
+
+Revolte Pub
+
+
+
+Not
+
+
+
+
+
+
+Viktor Levi Şarap Evi
+
+
+
+Not
+
+
+
+
+
+
+Story Kahve & Yemek
+
+
+
+Not
+
+
+
+
+
+
+Oza Jazz
+
+
+
+Not
+
+
+
+
+
+
+RS TOBACCO SHOP
+
+
+
+Not
+
+
+
+
+
+
+Lâl Cafe Bar
+
+
+
+Not
+
+
+
+
+
+
+Barış Sahaf
+
+
+
+Not
+
+
+
+
+
+
+Hazzo Pulo Restaurant ve Şarap Evi
+
+
+
+Not
+
+
+
+
+
+
+Borsam Taşfırın Bahariye
+
+
+
+Not
+
+
+
+
+
+
+Pikap Kadıköy
+
+
+
+Not
+
+
+
+
+
+
+kitchen Book
+
+
+
+Not
+
+
+
+
+
+
+Frankestayn Kitabevi-Bookstore & Cafe
+
+
+
+Not
+
+
+
+
+
+
+Artiel Brew Co.
+
+
+
+Not
+
+
+
+
+
+
+THE CO. COFFEE GÖZTEPE
+
+
+
+Not
+
+
+
+
+
+
+Coffee Pots Göztepe
+
+
+
+Not
+
+
+
+
+
+
+Date Coffee
+
+
+
+Not
+
+
+
+
+
+
+Vinylmania
+
+
+
+Not
+
+
+
+
+
+
+Kokoreççi Durmuş Usta
+
+
+
+Not
+
+
+
+
+
+
+Kervan Cafe
+
+
+
+Not
+
+
+
+
+
+
+Tilki coffee
+
+
+
+Not
+
+
+
+
+
+
+IL CORTILE Ristorante Pizzeria
+
+
+
+Not
+
+
+
+
+
+
+İskenderun Erdal Usta'nın Meşhur Zurna Dürümü
+
+
+
+Not
+
+
+
+
+
+
+Brekkie Breakfast Club
+
+
+
+Not
+
+
+
+
+
+
+Fahriye Cafe
+
+
+
+Not
+
+
+
+
+
+
+Biber Burger
+
+
+
+Not
+
+
+
+
+
+
+House of B Suadiye
+
+
+
+Not
+
+
+
+
+
+
+Sauce & fries kadıköy
+
+
+
+Not
+
+
+
+
+
+
+Maria's Cheesecake
+
+
+
+Not
+
+
+
+
+
+
+Buselik Meyhane - Moda Teras
+
+
+
+Not
+
+
+
+
+
+
+Kontrbus Coffee Co. Koşuyolu
+
+
+
+Not
+
+
+
+
+
+
+Hide Arnavutkoy
+
+
+
+Not
+
+
+
+
+
+
+Bomontimoda
+
+
+
+Not
+
+
+
+
+
+
+Però Yeniköy
+
+
+
+Not
+
+
+
+
+
+
+Bonne Nuit Caddebostan
+
+
+
+Not
+
+
+
+
+
+
+Jain arnavutköy
+
+
+
+Not
+
+
+
+
+
+
+GOU Society
+
+
+
+Not
+
+
+
+
+
+
+Master Bilardo İ.Sami Öztavlı
+
+
+
+Not
+
+
+
+
+
+
+Balun
+
+
+
+Not
+
+
+
+
+
+
+Brio İtalian Restaurant
+
+
+
+Not
+
+
+
+
+
+
+Container
+
+
+
+Not
+
+
+
+
+
+
+Just Coffee & Roastery
+
+
+
+Not
+
+
+
+
+
+
+Dürüm Durak
+
+
+
+Not
+
+
+
+
+
+
+Manhattan Fenerbahçe
+
+
+
+Not
+
+
+
+
+
+
+Workshop Tango Cafe
+
+
+
+Not
+
+
+
+
+
+
+Pool & More
+
+
+
+Not
+
+
+
+
+
+
+ruth.brandstore
+
+
+
+Not
+
+
+
+
+
+
+SNAB URBAN STORE
+
+
+
+Not
+
+
+
+
+
+
+Thales Cafe Kadıköy
+
+
+
+Not
+
+
+
+
+
+
+Allen Kitchen & Cocktail
+
+
+
+Not
+
+
+
+
+
+
+Bites Bakery
+
+
+
+Not
+
+
+
+
+
+
+Lena Restoran
+
+
+
+Not
+
+
+
+
+
+
+POCO Coffee & Matcha Bar
+
+
+
+Not
+
+
+
+
+
+
+House of Fellas
+
+
+
+Not
+
+
+
+
+
+
+Hidden Garden Restaurant
+
+
+
+Not
+
+
+
+
+
+
+Gümüşsuyu Restoran
+
+
+
+Not
+
+
+
+
+
+
+İBB Fethipaşa Sosyal Tesisleri
+
+
+
+Not
+
+
+
+
+
+
+Ransserie Cafe House
+
+
+
+Not
+
+
+
+
+
+
+Mikel Coffee Akaretler
+
+
+
+Not
+
+
+
+
+
+
+Arwin Roof
+
+
+
+Not
+
+
+
+
+
+
+Noter Sk. No:21
+
+
+
+Not
+
+
+
+
+
+
+Hey Joe Moda
+
+
+
+Not
+
+
+
+
+
+
+Şair Latifi Sk. No:35
+
+
+
+Not
+
+
+
+
+
+
+Yavuz Bey Sk. No:4
+
+
+
+Not
+
+
+
+
+
+
+Nadirağa Sk. No:5
+
+
+
+Not
+
+
+
+
+
+
+Numnum - Watergarden
+
+
+
+Not
+
+
+
+
+
+
+Sole Gastro coctail bar
+
+
+
+Not
+
+
+
+
+
+
+LUFFY PATISSERIE
+
+
+
+Not
+
+
+
+
+
+
+Fırıldak Sk. Nabız Sağlık Kabini No:1 D:A
+
+
+
+Not
+
+
+
+
+
+
+Kırmızı Kedi Pera
+
+
+
+Not
+
+
+
+
+
+
+Thymos Smoothie Bar
+
+
+
+Not
+
+
+
+
+
+
+BLACKTOP Cafe&Bistro
+
+
+
+Not
+
+
+
+
+
+
+Ortaköy Koyu Kahve
+
+
+
+Not
+
+
+
+
+
+
+Bond Coffee Co. Ortaköy
+
+
+
+Not
+
+
+
+
+
+
+Çosa
+
+
+
+Not
+
+
+
+
+
+
+grao.cafeteria
+
+
+
+Not
+
+
+
+
+
+
+Flare
+
+
+
+Not
+
+
+
+
+
+
+1401 Coffee
+
+
+
+Not
+
+
+
+
+
+
+Tart Bakery Cafe
+
+
+
+Not
+
+
+
+
+
+
+Balat
+
+
+
+Not
+
+
+
+
+
+
+Mavi Kitap Kafe
+
+
+
+Not
+
+
+
+
+
+
+Glow Coffee
+
+
+
+Not
+
+
+
+
+
+
+Root All In One
+
+
+
+Not
+
+
+
+
+
+
+Yücetepe Restoran & Kafe
+
+
+
+Not
+
+
+
+
+
+
+Akçakese Plaji
+
+
+
+Not
+
+
+
+
+
+
+Taş Mektep
+
+
+
+Not
+
+
+
+
+
+
+Kaful Çay Kahve
+
+
+
+Not
+
+
+
+
+
+
+Sirkeci Lokantası 1912
+
+
+
+Not
+
+
+
+
+
+
+Rhea Kitchen & Bar
+
+
+
+Not
+
+
+
+
+
+
+Pulat Çiftliği
+
+
+
+Not
+
+
+
+
+
+
+Begonia Garden Boutique Restaurant
+
+
+
+Not
+
+
+
+
+
+
+Türk Alman Kitabevi & Cafe
+
+
+
+Not
+
+
+
+
+
+
+POPSTEL BALAT
+
+
+
+Not
+
+
+
+
+
+
+Çikolatacı Aziz Bey
+
+
+
+Not
+
+
+
+
+
+
+Suflör Kadıköy
+
+
+
+Not
+
+
+
+
+
+
+Capella Hospitium Terrae Sanctae
+
+
+
+Not
+
+
+
+
+
+
+Oba Sk. 4/A
+
+
+
+Not
+
+
+
+
+
+
+dods coffee
+
+
+
+Not
+
+
+
+
+
+
+Doctrine Coffee
+
+
+
+Not
+
+
+
+
+
+
+Coffee Please
+
+
+
+Not
+
+
+
+
+
+
+Floi Coffee
+
+
+
+Not
+
+
+
+
+
+
+No:80 Coffee & More
+
+
+
+Not
+
+
+
+
+
+
+Karabatak Karaköy
+
+
+
+Not
+
+
+
+
+
+
+Craft Coffee
+
+
+
+Not
+
+
+
+
+
+
+Fabrikafa Make & Coffee
+
+
+
+Not
+
+
+
+
+
+
+Altkat Coffee Community
+
+
+
+Not
+
+
+
+
+
+
+Bekron Coffee Shop
+
+
+
+Not
+
+
+
+
+
+
+Vitavien | Kadıköy Çarşı
+
+
+
+Not
+
+
+
+
+
+
+Kava Coffee Roasting
+
+
+
+Not
+
+
+
+
+
+
+Parsa Coffee Roasters
+
+
+
+Not
+
+
+
+
+
+
+World House Coffee Co.
+
+
+
+Not
+
+
+
+
+
+
+cafeMU
+
+
+
+Not
+
+
+
+
+
+
+Sedir Kitap & Kahve
+
+
+
+Not
+
+
+
+
+
+
+Mila Winehouse
+
+
+
+Not
+
+
+
+
+
+
+Atlantis Bowling
+
+
+
+Not
+
+
+
+
+
+
+Rutin
+
+
+
+Not
+
+
+
+
+
+
+Dolce Far Niente
+
+
+
+Not
+
+
+
+
+
+
+Härman Coffee Shop
+
+
+
+Not
+
+
+
+
+
+￼
+Miles Coffee Co.
+4,0(282)
+₺100–200
+· Kahve dükkanı
+
+
+Not
+
+
+
+
+
+￼
+Bostancı Lunapark
+3,9(10.831)
+Lunapark
+
+
+Not
+
+
+
+
+
+￼
+Tasarım Bookshop & Cafe
+4,4(634)
+₺100–200
+· Kafe
+
+
+Not
+
+
+
+
+
+￼
+Lifefotostudio moda
+4,9(1.089)
+Fotoğraf Stüdyosu
+
+
+Not
+
+
+
+
+
+￼
+Havelka Caddebostan
+4,4(1.019)
+₺₺
+· Restoran
+
+
+Not
+
+
+
+
+
+￼
+COFFİTOL COFFEE
+4,1(56)
+₺100–200
+· Kahve dükkanı
+
+
+Not
+
+
+
+
+
+￼
+Spenta Pizza Restaurant & Cocktail Bar
+4,7(363)
+₺600–800
+· Pizza
+
+
+Not
+
+
+
+
+
+￼
+ÖZELİZ - Koşuyolu
